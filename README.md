@@ -1,4 +1,3 @@
 # Test-integration
-Testing integration with JIRA
 
-email address?
+transition to backlog
